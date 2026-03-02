@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","920","should scrolling to Footer and click Find A Location","","2026-03-02","passed","2026-03-02","","QA-7410- [Footer]Check the URL when click Find A Location","",""
+"","8053","should open the page","","2026-03-02","passed","2026-03-02","","QA-7410- [Footer]Check the URL when click Find A Location","",""
