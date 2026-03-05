@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":1,"items":[{"uid":"27f78979f772ca8c291360475532a36b","name":"QA-6923- Sanity test : Sign-up|Sign Out|Sign In|Add Pet|Search Location|Booking|Membership|Coupon|UI broken|","statistic":{"failed":1,"broken":0,"skipped":0,"passed":21,"unknown":0,"total":22}}]}
