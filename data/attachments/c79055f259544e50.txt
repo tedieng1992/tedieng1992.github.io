@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//b[text()=\"1111\"]"
-}
