@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//h3[contains(text(), 'AutoLai')]//following::p[contains(text(),\"View Pet Profile\")])[1]\"}\n  (Session info: chrome=145.0.7632.159)",
+  "stacktrace": "#0 0x55e7dda17b6a <unknown>\n#1 0x55e7dd42aa32 <unknown>\n#2 0x55e7dd47fd66 <unknown>\n#3 0x55e7dd47ffa1 <unknown>\n#4 0x55e7dd4cb144 <unknown>\n#5 0x55e7dd4c8369 <unknown>\n#6 0x55e7dd471c0f <unknown>\n#7 0x55e7dd4729d1 <unknown>\n#8 0x55e7dd9dc6b9 <unknown>\n#9 0x55e7dd9df5c1 <unknown>\n#10 0x55e7dd9c8e29 <unknown>\n#11 0x55e7dd9e017e <unknown>\n#12 0x55e7dd9af4b0 <unknown>\n#13 0x55e7dda04578 <unknown>\n#14 0x55e7dda0474b <unknown>\n#15 0x55e7dda161a3 <unknown>\n#16 0x7f0e6e49caa4 <unknown>\n#17 0x7f0e6e529c6c <unknown>\n"
+}

@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//p[contains(text(), \"Auto_Jak Auto_103152026110370\")]"
-}

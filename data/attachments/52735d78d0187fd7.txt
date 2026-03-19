@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//*[contains(text(), \"email verification code\")])[1]"
+}
