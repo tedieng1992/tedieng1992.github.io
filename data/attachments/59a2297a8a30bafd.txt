@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[text()=\"One or more fields are filled out incorrectly. Please check your entries and try again.\"]"
-}

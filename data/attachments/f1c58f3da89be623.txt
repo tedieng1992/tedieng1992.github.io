@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//button[contains(text(), \"AM\") or contains(text(), \"PM\")])[1]"
+}
