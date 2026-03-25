@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//a[@id=\"locations-0\"]"
-}
