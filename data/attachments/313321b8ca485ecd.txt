@@ -1,3 +1,0 @@
-{
-  "text": "auto_ann_103252026040373@ppaa.help"
-}

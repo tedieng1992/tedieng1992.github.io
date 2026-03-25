@@ -1,3 +1,0 @@
-{
-  "text": "7700 Lilla Crossroad"
-}

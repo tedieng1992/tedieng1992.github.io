@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//h3[@id=\"Sect3_CTA10\"])[3]"
-}
