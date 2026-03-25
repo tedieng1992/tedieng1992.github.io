@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//p[contains(text(), \"Vaccination History\")])[1]"
-}

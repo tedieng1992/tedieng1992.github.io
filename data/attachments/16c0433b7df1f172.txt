@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//a[contains(text(),\"Thrive Plus Membership\")])[2]"
-}
