@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//p[text() = \"Manage Membership\"])[1]"
+}
