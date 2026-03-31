@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[text()='Verify code']\"}\n  (Session info: chrome=146.0.7680.164)",
+  "stacktrace": "#0 0x565451a46b6a <unknown>\n#1 0x565451459a32 <unknown>\n#2 0x5654514aed66 <unknown>\n#3 0x5654514aefa1 <unknown>\n#4 0x5654514fa144 <unknown>\n#5 0x5654514f7369 <unknown>\n#6 0x5654514a0c0f <unknown>\n#7 0x5654514a19d1 <unknown>\n#8 0x565451a0b6b9 <unknown>\n#9 0x565451a0e5c1 <unknown>\n#10 0x5654519f7e29 <unknown>\n#11 0x565451a0f17e <unknown>\n#12 0x5654519de4b0 <unknown>\n#13 0x565451a33578 <unknown>\n#14 0x565451a3374b <unknown>\n#15 0x565451a451a3 <unknown>\n#16 0x7f16eb29caa4 <unknown>\n#17 0x7f16eb329c6c <unknown>\n"
+}
