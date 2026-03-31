@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//p[contains(text(), \"Make\")])[2]\"}\n  (Session info: chrome=146.0.7680.164)",
+  "stacktrace": "#0 0x562a9a133b6a <unknown>\n#1 0x562a99b46a32 <unknown>\n#2 0x562a99b9bd66 <unknown>\n#3 0x562a99b9bfa1 <unknown>\n#4 0x562a99be7144 <unknown>\n#5 0x562a99be4369 <unknown>\n#6 0x562a99b8dc0f <unknown>\n#7 0x562a99b8e9d1 <unknown>\n#8 0x562a9a0f86b9 <unknown>\n#9 0x562a9a0fb5c1 <unknown>\n#10 0x562a9a0e4e29 <unknown>\n#11 0x562a9a0fc17e <unknown>\n#12 0x562a9a0cb4b0 <unknown>\n#13 0x562a9a120578 <unknown>\n#14 0x562a9a12074b <unknown>\n#15 0x562a9a1321a3 <unknown>\n#16 0x7ff04ea9caa4 <unknown>\n#17 0x7ff04eb29c6c <unknown>\n"
+}
