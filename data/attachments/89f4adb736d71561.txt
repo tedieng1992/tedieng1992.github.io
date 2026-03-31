@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//h5[contains(text(), \"Clinic Locations Near Me\")]"
-}

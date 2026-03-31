@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//h3[contains(., \"year\")]/ancestor::label//input[@type=\"radio\"])[1]"
+}
