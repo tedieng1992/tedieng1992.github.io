@@ -1,3 +1,0 @@
-{
-  "text": "upgrade1month"
-}
