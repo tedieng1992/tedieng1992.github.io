@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//h3[contains(text(), 'AutoKim')]//following::p[contains(text(),\"View Pet Profile\")])[1]"
-}

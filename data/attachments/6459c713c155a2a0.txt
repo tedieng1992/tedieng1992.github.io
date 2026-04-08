@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[text()=\"Create Account\"]\"}\n  (Session info: chrome=146.0.7680.164)",
+  "stacktrace": "#0 0x555c7926fb6a <unknown>\n#1 0x555c78c82a32 <unknown>\n#2 0x555c78cd7d66 <unknown>\n#3 0x555c78cd7fa1 <unknown>\n#4 0x555c78d23144 <unknown>\n#5 0x555c78d20369 <unknown>\n#6 0x555c78cc9c0f <unknown>\n#7 0x555c78cca9d1 <unknown>\n#8 0x555c792346b9 <unknown>\n#9 0x555c792375c1 <unknown>\n#10 0x555c79220e29 <unknown>\n#11 0x555c7923817e <unknown>\n#12 0x555c792074b0 <unknown>\n#13 0x555c7925c578 <unknown>\n#14 0x555c7925c74b <unknown>\n#15 0x555c7926e1a3 <unknown>\n#16 0x7f03b969caa4 <unknown>\n#17 0x7f03b9729c6c <unknown>\n"
+}
