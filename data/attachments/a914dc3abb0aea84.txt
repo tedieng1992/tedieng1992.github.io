@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//*[@for=\"petSpecies\"]//following::div/div)[1]"
-}
