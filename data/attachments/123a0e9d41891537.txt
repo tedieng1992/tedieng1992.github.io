@@ -1,3 +1,0 @@
-{
-  "text": "4908 Gutkowski Lane"
-}
