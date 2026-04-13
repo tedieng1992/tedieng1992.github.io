@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h3[contains(text(), \"Pawsome\")]\"}\n  (Session info: chrome=146.0.7680.177)",
+  "stacktrace": "#0 0x559b929b4b6a <unknown>\n#1 0x559b923c7a32 <unknown>\n#2 0x559b9241cd66 <unknown>\n#3 0x559b9241cfa1 <unknown>\n#4 0x559b92468144 <unknown>\n#5 0x559b92465369 <unknown>\n#6 0x559b9240ec0f <unknown>\n#7 0x559b9240f9d1 <unknown>\n#8 0x559b929796b9 <unknown>\n#9 0x559b9297c5c1 <unknown>\n#10 0x559b92965e29 <unknown>\n#11 0x559b9297d17e <unknown>\n#12 0x559b9294c4b0 <unknown>\n#13 0x559b929a1578 <unknown>\n#14 0x559b929a174b <unknown>\n#15 0x559b929b31a3 <unknown>\n#16 0x7f899cc9caa4 <unknown>\n#17 0x7f899cd29c6c <unknown>\n"
+}
