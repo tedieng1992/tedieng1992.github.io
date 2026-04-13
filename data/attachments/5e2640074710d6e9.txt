@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//a[@href=\"/contact-your-local-hospital\"])[2]"
-}
