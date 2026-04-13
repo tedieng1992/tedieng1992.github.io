@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//a[contains(text(), \"Select clinic to see pricing\")]"
-}
