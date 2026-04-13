@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//li[@id=\"clinic-option-0\"]"
-}

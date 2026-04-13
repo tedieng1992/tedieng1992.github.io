@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(text(), \"Log In Here\")]\"}\n  (Session info: chrome=146.0.7680.177)",
+  "stacktrace": "#0 0x5630b3284b6a <unknown>\n#1 0x5630b2c97a32 <unknown>\n#2 0x5630b2cecd66 <unknown>\n#3 0x5630b2cecfa1 <unknown>\n#4 0x5630b2d38144 <unknown>\n#5 0x5630b2d35369 <unknown>\n#6 0x5630b2cdec0f <unknown>\n#7 0x5630b2cdf9d1 <unknown>\n#8 0x5630b32496b9 <unknown>\n#9 0x5630b324c5c1 <unknown>\n#10 0x5630b3235e29 <unknown>\n#11 0x5630b324d17e <unknown>\n#12 0x5630b321c4b0 <unknown>\n#13 0x5630b3271578 <unknown>\n#14 0x5630b327174b <unknown>\n#15 0x5630b32831a3 <unknown>\n#16 0x7f9378e9caa4 <unknown>\n#17 0x7f9378f29c6c <unknown>\n"
+}

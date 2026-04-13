@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(), \"Your code is:\")]\"}\n  (Session info: chrome=146.0.7680.177)",
-  "stacktrace": "#0 0x563aee589b6a <unknown>\n#1 0x563aedf9ca32 <unknown>\n#2 0x563aedff1d66 <unknown>\n#3 0x563aedff1fa1 <unknown>\n#4 0x563aee03d144 <unknown>\n#5 0x563aee03a369 <unknown>\n#6 0x563aedfe3c0f <unknown>\n#7 0x563aedfe49d1 <unknown>\n#8 0x563aee54e6b9 <unknown>\n#9 0x563aee5515c1 <unknown>\n#10 0x563aee53ae29 <unknown>\n#11 0x563aee55217e <unknown>\n#12 0x563aee5214b0 <unknown>\n#13 0x563aee576578 <unknown>\n#14 0x563aee57674b <unknown>\n#15 0x563aee5881a3 <unknown>\n#16 0x7fd0b0e9caa4 <unknown>\n#17 0x7fd0b0f29c6c <unknown>\n"
-}
