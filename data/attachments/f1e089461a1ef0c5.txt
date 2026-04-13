@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//img[contains(@alt,\"Clinic Finder map image\")]"
-}
