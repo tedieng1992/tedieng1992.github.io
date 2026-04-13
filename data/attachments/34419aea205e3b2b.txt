@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//button[contains(@id, \"Sect1_CTA\")])[3]"
+}

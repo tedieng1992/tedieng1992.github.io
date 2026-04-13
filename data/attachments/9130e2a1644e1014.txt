@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[contains(text(), \"If your pet is having a life-threatening emergency, please proceed immediately to the nearest veterinary emergency hospital.\")]"
+}

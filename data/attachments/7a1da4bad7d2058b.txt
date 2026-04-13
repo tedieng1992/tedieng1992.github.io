@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[contains(@class, \"MuiTypography-root MuiTypography-body1 css-\")]/span"
-}
