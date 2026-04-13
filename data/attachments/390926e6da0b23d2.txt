@@ -1,3 +1,0 @@
-{
-  "text": "83155 Nikolaus Circles"
-}

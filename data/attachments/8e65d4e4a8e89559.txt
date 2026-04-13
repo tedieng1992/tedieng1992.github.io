@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[contains(text(),\"Success! Thank you for subscribing.\")]"
+}
