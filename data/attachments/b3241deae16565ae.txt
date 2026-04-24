@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//a[contains(@id,\"ClickToCall_CTA\")])[3]"
-}

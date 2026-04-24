@@ -1,3 +1,0 @@
-{
-  "text": "550 Mariano Bridge"
-}

@@ -1,3 +1,0 @@
-{
-  "text": "78031 Paucek Parkways"
-}
