@@ -1,2 +1,7 @@
 "Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
-"","TC_Pet_Portal_004 - Verify the ""Request Refill"" button is displayed for clinics that allow refill requests and redirects to the ""Request a Refill"" page when clicked","","0","0","6","0","0"
+"","TC_Booking_023 - Login: Booking in Pathway (VS) with specific doctors for new Customer and Pet","","0","0","11","0","0"
+"","TC_Booking_024 - Login: Booking for new Customer and Pet, then Back navigation and Edit","","0","0","10","0","0"
+"","TC_Booking_004 Non-login: Booking in Pathway (VS) with specific doctors for new Customer and Pet","","0","0","7","0","0"
+"","TC_Booking_005 - Non-login: Booking for new Customer and Pet, then Back navigation and Edit","","0","0","11","0","0"
+"","TC_Booking_002 - Non-login: Booking in Pathway (VS) with all doctors for new Customer and Pet","","0","0","7","0","0"
+"","TC_Booking_020 - Login: Booking in Pathway (VS) with all doctors for new Customer and Pet","","0","0","11","0","0"
