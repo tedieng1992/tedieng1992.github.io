@@ -1,3 +1,0 @@
-{
-  "text": "UPGRADE22TEST"
-}

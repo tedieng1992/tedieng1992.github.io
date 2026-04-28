@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//button[@id=\"Sect4_CTA1\" and text()=\"Yes, Create My Account\"]"
-}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//h3[text()='AutoAla']/following::p[text()='Thrive Plus Total Wellness'])[1]"
+}
