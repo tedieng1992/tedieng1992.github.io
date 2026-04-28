@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[text()=\"Continue\" and @id=\"Sect3_CTA9\"]"
+}

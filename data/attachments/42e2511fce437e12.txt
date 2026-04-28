@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//button[@id=\"Sect3_CTA30\" and text()=\"Apply Coupon Code\"])[3]"
+}

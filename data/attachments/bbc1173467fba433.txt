@@ -1,3 +1,0 @@
-{
-  "text": "websitetestinguat@gmail.com"
-}
