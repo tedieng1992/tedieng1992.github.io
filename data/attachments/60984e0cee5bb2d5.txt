@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//p[contains(text(),\"My Preferred Clinic\")])[1]"
+}
