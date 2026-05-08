@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[contains(text(),\"A user with the specified ID already exists. Please choose a different one.\")]"
-}
