@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h4[contains(text(), \"Routine Wellness\")]\"}\n  (Session info: chrome=147.0.7727.55)",
+  "stacktrace": "#0 0x55ffaa0aaa6a <unknown>\n#1 0x55ffa9ab9ab5 <unknown>\n#2 0x55ffa9b0c676 <unknown>\n#3 0x55ffa9b0c8b1 <unknown>\n#4 0x55ffa9b57614 <unknown>\n#5 0x55ffa9b547b6 <unknown>\n#6 0x55ffa9affcbf <unknown>\n#7 0x55ffa9b00a81 <unknown>\n#8 0x55ffaa070a64 <unknown>\n#9 0x55ffaa073951 <unknown>\n#10 0x55ffaa05d21e <unknown>\n#11 0x55ffaa07451e <unknown>\n#12 0x55ffaa043be0 <unknown>\n#13 0x55ffaa0979b8 <unknown>\n#14 0x55ffaa097b88 <unknown>\n#15 0x55ffaa0a94de <unknown>\n#16 0x7fe39ce9caa4 <unknown>\n#17 0x7fe39cf29c6c <unknown>\n"
+}

@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//*[contains(@aria-label,\"calendar view is open, switch to year view\")]"
-}
