@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//a[@id=\"Sect10_CTA9\"]"
-}

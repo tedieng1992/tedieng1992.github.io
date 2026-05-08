@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[text()=\"From wellness checks to complex treatments, we deliver premium healthcare to you & your pet.\"]"
+}
