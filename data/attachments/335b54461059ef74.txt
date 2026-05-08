@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@id=\"Sect4_CTA0\"]\"}\n  (Session info: chrome=147.0.7727.55)",
-  "stacktrace": "#0 0x555ebef0aa6a <unknown>\n#1 0x555ebe919ab5 <unknown>\n#2 0x555ebe96c676 <unknown>\n#3 0x555ebe96c8b1 <unknown>\n#4 0x555ebe9b7614 <unknown>\n#5 0x555ebe9b47b6 <unknown>\n#6 0x555ebe95fcbf <unknown>\n#7 0x555ebe960a81 <unknown>\n#8 0x555ebeed0a64 <unknown>\n#9 0x555ebeed3951 <unknown>\n#10 0x555ebeebd21e <unknown>\n#11 0x555ebeed451e <unknown>\n#12 0x555ebeea3be0 <unknown>\n#13 0x555ebeef79b8 <unknown>\n#14 0x555ebeef7b88 <unknown>\n#15 0x555ebef094de <unknown>\n#16 0x7f502ec9caa4 <unknown>\n#17 0x7f502ed29c6c <unknown>\n"
-}
