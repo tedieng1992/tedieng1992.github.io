@@ -1,3 +1,0 @@
-{
-  "text": "1711 Warren Plaza"
-}
