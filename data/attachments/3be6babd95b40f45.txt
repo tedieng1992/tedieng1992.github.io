@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//p[contains(text(),\"Continue to Payment\")])[1]"
+}
