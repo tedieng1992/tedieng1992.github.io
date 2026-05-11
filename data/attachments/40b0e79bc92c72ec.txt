@@ -1,0 +1,47 @@
+{
+  "id": {
+    "sessionId": "3f4bc47192aef525716a4cb82cfd9ddf",
+    "error": {
+      "error": "no such element",
+      "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//iframe[contains(@src,'recurly.com')]\"}\n  (Session info: chrome=147.0.7727.55)",
+      "stacktrace": "#0 0x55c035cb0a6a <unknown>\n#1 0x55c0356bfab5 <unknown>\n#2 0x55c035712676 <unknown>\n#3 0x55c0357128b1 <unknown>\n#4 0x55c03575d614 <unknown>\n#5 0x55c03575a7b6 <unknown>\n#6 0x55c035705cbf <unknown>\n#7 0x55c035706a81 <unknown>\n#8 0x55c035c76a64 <unknown>\n#9 0x55c035c79951 <unknown>\n#10 0x55c035c6321e <unknown>\n#11 0x55c035c7a51e <unknown>\n#12 0x55c035c49be0 <unknown>\n#13 0x55c035c9d9b8 <unknown>\n#14 0x55c035c9db88 <unknown>\n#15 0x55c035caf4de <unknown>\n#16 0x7fc90ac9caa4 <unknown>\n#17 0x7fc90ad29c6c <unknown>\n"
+    },
+    "selector": "//iframe[contains(@src,'recurly.com')]",
+    "parent": {
+      "sessionId": "3f4bc47192aef525716a4cb82cfd9ddf",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "147.0.7727.55",
+        "chrome": {
+          "chromedriverVersion": "146.0.7680.165 (4b989da09e15a7dc0de0785cb5ff232aadae3f0f-refs/branch-heads/7680@{#2932})",
+          "userDataDir": "/tmp/org.chromium.Chromium.scoped_dir.t9wF1x"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:46489"
+        },
+        "goog:processID": 3658,
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "eager",
+        "platformName": "linux",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
