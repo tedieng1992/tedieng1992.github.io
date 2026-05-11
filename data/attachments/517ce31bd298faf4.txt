@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[contains(@style,\"opacity: 1\")]"
-}
