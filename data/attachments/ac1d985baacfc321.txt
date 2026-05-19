@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[text()=\"Valid Coupon\"]\"}\n  (Session info: chrome=148.0.7778.167)",
+  "stacktrace": "#0 0x55a247d5e22a <unknown>\n#1 0x55a24775cab9 <unknown>\n#2 0x55a2477b1046 <unknown>\n#3 0x55a2477b1281 <unknown>\n#4 0x55a2477fbf74 <unknown>\n#5 0x55a2477f9116 <unknown>\n#6 0x55a2477a4662 <unknown>\n#7 0x55a2477a5451 <unknown>\n#8 0x55a247d21d8b <unknown>\n#9 0x55a247d24c65 <unknown>\n#10 0x55a247d0e458 <unknown>\n#11 0x55a247d257f0 <unknown>\n#12 0x55a247cf51c0 <unknown>\n#13 0x55a247d4b168 <unknown>\n#14 0x55a247d4b305 <unknown>\n#15 0x55a247d5cc5e <unknown>\n#16 0x7f6613a9caa4 <unknown>\n#17 0x7f6613b29c6c <unknown>\n"
+}
