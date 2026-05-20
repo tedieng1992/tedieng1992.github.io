@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "((//div[contains(@class,'BaeCalendar-baeDateIndicator')][1]/div[contains(@class,'date-icon') and not(contains(@class,'last-day'))]))[3]"
+}
