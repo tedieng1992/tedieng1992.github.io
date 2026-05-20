@@ -1,3 +1,0 @@
-{
-  "text": "testmedicalsit01@yopmail.com"
-}

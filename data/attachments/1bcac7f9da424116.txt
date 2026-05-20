@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//img[contains(@alt,\"Sizzle Reel Still with play button\")]"
-}
