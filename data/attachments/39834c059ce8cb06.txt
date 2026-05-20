@@ -1,3 +1,0 @@
-{
-  "text": "76136 Price Curve"
-}

@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//p[contains(text(),\"We know that the loss of a pet is difficult.\")]"
-}
