@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[h5[contains(text(), 'Thrive Olt')]]//a[contains(., \"View Location Details\")]"
+}

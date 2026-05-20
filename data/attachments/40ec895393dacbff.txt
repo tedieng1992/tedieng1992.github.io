@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//img[contains(@class, \"css-29lyfe\")])[2]"
-}

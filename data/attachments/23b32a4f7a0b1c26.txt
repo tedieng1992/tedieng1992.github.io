@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h2[contains(text(), \"Meet Some Of The Team\")]\"}\n  (Session info: chrome=148.0.7778.167)",
-  "stacktrace": "#0 0x55a90331e22a <unknown>\n#1 0x55a902d1cab9 <unknown>\n#2 0x55a902d71046 <unknown>\n#3 0x55a902d71281 <unknown>\n#4 0x55a902dbbf74 <unknown>\n#5 0x55a902db9116 <unknown>\n#6 0x55a902d64662 <unknown>\n#7 0x55a902d65451 <unknown>\n#8 0x55a9032e1d8b <unknown>\n#9 0x55a9032e4c65 <unknown>\n#10 0x55a9032ce458 <unknown>\n#11 0x55a9032e57f0 <unknown>\n#12 0x55a9032b51c0 <unknown>\n#13 0x55a90330b168 <unknown>\n#14 0x55a90330b305 <unknown>\n#15 0x55a90331cc5e <unknown>\n#16 0x7fb71bc9caa4 <unknown>\n#17 0x7fb71bd29c6c <unknown>\n"
-}

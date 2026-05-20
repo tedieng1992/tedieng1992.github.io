@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//*[text()=\"Close\"])[2]\"}\n  (Session info: chrome=148.0.7778.167)",
+  "stacktrace": "#0 0x557a501a922a <unknown>\n#1 0x557a4fba7ab9 <unknown>\n#2 0x557a4fbfc046 <unknown>\n#3 0x557a4fbfc281 <unknown>\n#4 0x557a4fc46f74 <unknown>\n#5 0x557a4fc44116 <unknown>\n#6 0x557a4fbef662 <unknown>\n#7 0x557a4fbf0451 <unknown>\n#8 0x557a5016cd8b <unknown>\n#9 0x557a5016fc65 <unknown>\n#10 0x557a50159458 <unknown>\n#11 0x557a501707f0 <unknown>\n#12 0x557a501401c0 <unknown>\n#13 0x557a50196168 <unknown>\n#14 0x557a50196305 <unknown>\n#15 0x557a501a7c5e <unknown>\n#16 0x7f6d12c9caa4 <unknown>\n#17 0x7f6d12d29c6c <unknown>\n"
+}
