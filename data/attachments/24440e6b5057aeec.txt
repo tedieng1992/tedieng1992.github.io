@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[text()=\"Meet Some Of Our Pets In The Thrive Family!\"]"
+}
