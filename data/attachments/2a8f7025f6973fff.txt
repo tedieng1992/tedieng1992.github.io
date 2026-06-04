@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[contains(text(),\"An account could not be found for the provided user ID.\")]"
-}

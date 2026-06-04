@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//*[normalize-space()=\"Close\" and following-sibling::*[local-name()=\"svg\"]])[2]"
-}
