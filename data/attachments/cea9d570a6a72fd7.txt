@@ -1,3 +1,0 @@
-{
-  "text": "2413 Rudolph Road"
-}

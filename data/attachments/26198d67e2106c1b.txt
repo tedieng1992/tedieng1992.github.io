@@ -1,3 +1,0 @@
-{
-  "text": "760 Abbey Mall"
-}

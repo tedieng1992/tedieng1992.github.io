@@ -1,3 +1,0 @@
-{
-  "text": "040 Hermann Course"
-}
