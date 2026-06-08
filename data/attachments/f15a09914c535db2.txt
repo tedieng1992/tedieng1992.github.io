@@ -1,3 +1,0 @@
-{
-  "text": "uat_qatest10879@yopmail.com"
-}
