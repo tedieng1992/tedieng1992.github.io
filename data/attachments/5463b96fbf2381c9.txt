@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//img[contains(@alt, \"Home About Icon 1\")]"
+}
