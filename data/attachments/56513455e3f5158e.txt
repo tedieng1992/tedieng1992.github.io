@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//div[contains(@id, \"Sect0_CTA_7\")])[1]"
+}

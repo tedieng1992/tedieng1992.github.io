@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//p[text()=\"Appointments\"])[2]\"}\n  (Session info: chrome=148.0.7778.178)",
+  "stacktrace": "#0 0x55aab185b22a <unknown>\n#1 0x55aab1259ab9 <unknown>\n#2 0x55aab12ae046 <unknown>\n#3 0x55aab12ae281 <unknown>\n#4 0x55aab12f8f74 <unknown>\n#5 0x55aab12f6116 <unknown>\n#6 0x55aab12a1662 <unknown>\n#7 0x55aab12a2451 <unknown>\n#8 0x55aab181ed8b <unknown>\n#9 0x55aab1821c65 <unknown>\n#10 0x55aab180b458 <unknown>\n#11 0x55aab18227f0 <unknown>\n#12 0x55aab17f21c0 <unknown>\n#13 0x55aab1848168 <unknown>\n#14 0x55aab1848305 <unknown>\n#15 0x55aab1859c5e <unknown>\n#16 0x7f5fa689caa4 <unknown>\n#17 0x7f5fa6929c6c <unknown>\n"
+}

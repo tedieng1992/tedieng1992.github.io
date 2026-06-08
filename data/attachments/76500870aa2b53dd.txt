@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//h3[contains(text(),\"Team\")]//following::p[contains(text(), \"Unhide Pet\")]"
+}
