@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@value=\"Delete Message\"]\"}\n  (Session info: chrome=148.0.7778.178)",
-  "stacktrace": "#0 0x55cc69f0f22a <unknown>\n#1 0x55cc6990dab9 <unknown>\n#2 0x55cc69962046 <unknown>\n#3 0x55cc69962281 <unknown>\n#4 0x55cc699acf74 <unknown>\n#5 0x55cc699aa116 <unknown>\n#6 0x55cc69955662 <unknown>\n#7 0x55cc69956451 <unknown>\n#8 0x55cc69ed2d8b <unknown>\n#9 0x55cc69ed5c65 <unknown>\n#10 0x55cc69ebf458 <unknown>\n#11 0x55cc69ed67f0 <unknown>\n#12 0x55cc69ea61c0 <unknown>\n#13 0x55cc69efc168 <unknown>\n#14 0x55cc69efc305 <unknown>\n#15 0x55cc69f0dc5e <unknown>\n#16 0x7f2452c9caa4 <unknown>\n#17 0x7f2452d29c6c <unknown>\n"
-}

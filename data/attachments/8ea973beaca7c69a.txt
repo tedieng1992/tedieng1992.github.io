@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//button[@id=\"ConfirmAppointmentModal_CTA\" and text()=\"Confirm Appointment\"]"
-}
