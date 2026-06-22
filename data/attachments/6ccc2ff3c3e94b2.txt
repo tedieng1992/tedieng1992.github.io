@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//button[@id=\"Sect5_CTA4\"])[1]"
-}

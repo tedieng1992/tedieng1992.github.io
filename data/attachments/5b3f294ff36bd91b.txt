@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//button[text()=\"Back to Pet Portal\"])[1]"
+}

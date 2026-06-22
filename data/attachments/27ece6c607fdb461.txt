@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//p[contains(text(),\"Please review the details below and click confirm to finalize your booking.\")]"
-}

@@ -1,0 +1,44 @@
+{
+  "id": {
+    "sessionId": "f034bb6dd328b44f195ccbcf7c2792da",
+    "elementId": "f.DFF2FEA45228BA2C60C4BB01B14ABE3C.d.6413447619582C8A8AFF96816F2247E9.e.1460",
+    "element-6066-11e4-a52e-4f735466cecf": "f.DFF2FEA45228BA2C60C4BB01B14ABE3C.d.6413447619582C8A8AFF96816F2247E9.e.1460",
+    "selector": "//iframe[contains(@src,'recurly.com')]",
+    "parent": {
+      "sessionId": "f034bb6dd328b44f195ccbcf7c2792da",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "148.0.7778.178",
+        "chrome": {
+          "chromedriverVersion": "148.0.7778.167 (65db666ac2cf205fcc36db8bb5b9cd87f94808ac-refs/branch-heads/7778@{#2783})",
+          "userDataDir": "/tmp/org.chromium.Chromium.scoped_dir.TunWs9"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:34291"
+        },
+        "goog:processID": 9982,
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "eager",
+        "platformName": "linux",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
