@@ -1,3 +1,0 @@
-{
-  "text": "67040 Walter Mall"
-}

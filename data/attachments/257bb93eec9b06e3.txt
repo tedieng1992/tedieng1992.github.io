@@ -1,0 +1,3 @@
+{
+  "url": "https://uat.thrivepetcare.com/request-appointment?locationId=T0002"
+}

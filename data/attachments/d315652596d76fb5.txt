@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//p[text()=\"Scheduled\"])[1]"
-}

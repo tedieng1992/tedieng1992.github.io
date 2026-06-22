@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//p[contains(text(),\"I need assistance with booking or cancelling an appointment\")]"
-}
