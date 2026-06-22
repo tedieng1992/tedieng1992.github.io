@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//h3[contains(text(),\"Say Yes to the Best, Every Time with Thrive Plus Membership\")]"
-}

@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//button[contains(@class, \"react-multiple-carousel__arrow--left\")])[1]"
-}
