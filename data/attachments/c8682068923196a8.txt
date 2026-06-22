@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[contains(text(),\"medical or vaccination records\")]"
+}

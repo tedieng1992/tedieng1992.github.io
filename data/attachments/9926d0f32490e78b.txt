@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//*[contains(@id,\"Sect11_CTA2\")])[1]"
-}

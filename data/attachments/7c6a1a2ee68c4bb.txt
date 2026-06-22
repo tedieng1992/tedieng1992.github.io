@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//p[contains(text(),\"Auto-renews every 12 month\")])[2]"
+}

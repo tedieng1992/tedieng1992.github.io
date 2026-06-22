@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//h3[text()='petB']/following::p[contains(text(), 'Thrive Plus Total Wellness')][1]"
+}

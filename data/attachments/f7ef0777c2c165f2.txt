@@ -1,0 +1,13 @@
+{
+  "script": "<script> [79 bytes]",
+  "args": [
+    {
+      "element-6066-11e4-a52e-4f735466cecf": "f.59AA372E30B0A140252434B700260587.d.2719B97BB6F11936A4DE6DC34C233428.e.1208",
+      "ELEMENT": "f.59AA372E30B0A140252434B700260587.d.2719B97BB6F11936A4DE6DC34C233428.e.1208"
+    },
+    {
+      "block": "center",
+      "inline": "center"
+    }
+  ]
+}

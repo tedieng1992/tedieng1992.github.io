@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//h3[contains(text(),\"Create a Pet Portal account to manage your membership\")]"
-}
